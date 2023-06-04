@@ -8,3 +8,5 @@
 B3ris/B3ris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<meta http-equiv="refresh" content="3;URL=https://www.yazilimbilisim.net">
